@@ -3,6 +3,7 @@ package com.codepath.articlesearch
 import android.support.annotation.Keep
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
+//note: all notes provided from https://courses.codepath.org/courses/and102/unit/5#!labs
 
 //note: SQLite is a open source SQL database that stores data to a text file on a device.
 // Android comes in with built in SQLite database implementation, but working directly
